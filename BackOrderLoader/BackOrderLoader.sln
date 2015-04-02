@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Web
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackOrderLoader", "SharePoint2010Snippets_Console\BackOrderLoader.csproj", "{8DD4DF45-4F71-477F-BB5B-487815145BFC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{06D6C02D-8209-4949-A1F1-7476310E6EB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DD4DF45-4F71-477F-BB5B-487815145BFC}.Debug|x86.ActiveCfg = Debug|x86
+		{8DD4DF45-4F71-477F-BB5B-487815145BFC}.Debug|x86.Build.0 = Debug|x86
+		{8DD4DF45-4F71-477F-BB5B-487815145BFC}.Release|x86.ActiveCfg = Release|x86
+		{8DD4DF45-4F71-477F-BB5B-487815145BFC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+D:\Shanthakumar.t\Programs\SharePoint\Applications\SharePoint2010Snippets_Console\SharePoint2010Snippets_Console\bin\Debug\SharePoint2010Snippets_Console.exe
+D:\Shanthakumar.t\Programs\SharePoint\Applications\SharePoint2010Snippets_Console\SharePoint2010Snippets_Console\bin\Debug\SharePoint2010Snippets_Console.pdb
+D:\Shanthakumar.t\Programs\SharePoint\Applications\SharePoint2010Snippets_Console\SharePoint2010Snippets_Console\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Shanthakumar.t\Programs\SharePoint\Applications\SharePoint2010Snippets_Console\SharePoint2010Snippets_Console\obj\x86\Debug\SharePoint2010Snippets_Console.exe
+D:\Shanthakumar.t\Programs\SharePoint\Applications\SharePoint2010Snippets_Console\SharePoint2010Snippets_Console\obj\x86\Debug\SharePoint2010Snippets_Console.pdb
+E:\SharePoint\Applications\Console\SharePoint 2010 Snippets\C#\SharePoint2010Snippets_Console\obj\x86\Debug\SharePoint2010Snippets_Console.exe
+E:\SharePoint\Applications\Console\SharePoint 2010 Snippets\C#\SharePoint2010Snippets_Console\obj\x86\Debug\SharePoint2010Snippets_Console.pdb
+E:\SharePoint\Applications\Console\SharePoint 2010 Snippets\C#\SharePoint2010Snippets_Console\bin\Debug\SharePoint2010Snippets_Console.exe
+E:\SharePoint\Applications\Console\SharePoint 2010 Snippets\C#\SharePoint2010Snippets_Console\bin\Debug\SharePoint2010Snippets_Console.pdb
+E:\SharePoint\Applications\Console\SharePoint 2010 Snippets\C#\SharePoint2010Snippets_Console\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\_ramasv\Documents\Visual Studio 2013\Samples\SharePoint 2010 Snip1\SharePoint2010Snippets_Console\obj\x86\Debug\SharePoint2010Snippets_Console.exe
+C:\Users\_ramasv\Documents\Visual Studio 2013\Samples\SharePoint 2010 Snip1\SharePoint2010Snippets_Console\obj\x86\Debug\SharePoint2010Snippets_Console.pdb
+C:\Users\_ramasv\Documents\Visual Studio 2013\Samples\SharePoint 2010 Snip1\SharePoint2010Snippets_Console\obj\x86\Debug\SharePoint2010Snippets_Console.csprojResolveAssemblyReference.cache
+C:\Users\_ramasv\Documents\Visual Studio 2013\Samples\SharePoint 2010 Snip1\SharePoint2010Snippets_Console\bin\Debug\SharePoint2010Snippets_Console.exe
+C:\Users\_ramasv\Documents\Visual Studio 2013\Samples\SharePoint 2010 Snip1\SharePoint2010Snippets_Console\bin\Debug\SharePoint2010Snippets_Console.pdb
+C:\Users\_ramasv\Documents\Visual Studio 2013\Samples\SharePoint 2010 Snip1\SharePoint2010Snippets_Console\bin\Debug\Microsoft.Office.Interop.Excel.dll

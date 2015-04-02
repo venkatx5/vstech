@@ -1,0 +1,11 @@
+C:\Users\_ramasv\Documents\Visual Studio 2013\Samples\SharePoint 2010 Snip1\SharePoint2010Snippets_Console\bin\Debug\BackOrderLoader.exe
+C:\Users\_ramasv\Documents\Visual Studio 2013\Samples\SharePoint 2010 Snip1\SharePoint2010Snippets_Console\bin\Debug\BackOrderLoader.pdb
+C:\Users\_ramasv\Documents\Visual Studio 2013\Samples\SharePoint 2010 Snip1\SharePoint2010Snippets_Console\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\_ramasv\Documents\Visual Studio 2013\Samples\SharePoint 2010 Snip1\SharePoint2010Snippets_Console\obj\x86\Debug\BackOrderLoader.exe
+C:\Users\_ramasv\Documents\Visual Studio 2013\Samples\SharePoint 2010 Snip1\SharePoint2010Snippets_Console\obj\x86\Debug\BackOrderLoader.pdb
+C:\Venkat\CommIT\Alloc\BackOrderLoader\SharePoint2010Snippets_Console\obj\x86\Debug\BackOrderLoader.exe
+C:\Venkat\CommIT\Alloc\BackOrderLoader\SharePoint2010Snippets_Console\obj\x86\Debug\BackOrderLoader.pdb
+C:\Venkat\CommIT\Alloc\BackOrderLoader\SharePoint2010Snippets_Console\bin\Debug\BackOrderLoader.exe
+C:\Venkat\CommIT\Alloc\BackOrderLoader\SharePoint2010Snippets_Console\bin\Debug\BackOrderLoader.pdb
+C:\Venkat\CommIT\Alloc\BackOrderLoader\SharePoint2010Snippets_Console\obj\x86\Debug\BackOrderLoader.csprojResolveAssemblyReference.cache
+C:\Venkat\CommIT\Alloc\BackOrderLoader\SharePoint2010Snippets_Console\bin\Debug\Microsoft.Office.Interop.Excel.dll
