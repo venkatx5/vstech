@@ -1,4 +1,4 @@
-<mxfile modified="2021-06-15T07:15:36.377Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="sOtL0uGqWV-ee_1YSQSC" version="14.7.7" type="github" pages="3">
+<mxfile modified="2021-06-15T07:17:02.110Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="naqtaAQ_JjkJjdXb9TFi" version="14.7.7" type="github" pages="3">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Ref">
     <mxGraphModel dx="2207" dy="556" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -127,7 +127,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="FileLoad" id="4qPTHFZEd92124PaGhcX">
-    <mxGraphModel dx="865" dy="463" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="494" dy="265" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="GOqR9x0fnhTcKB3QiZrW-0" />
         <mxCell id="GOqR9x0fnhTcKB3QiZrW-1" parent="GOqR9x0fnhTcKB3QiZrW-0" />
@@ -145,7 +145,15 @@
         <mxCell id="GOqR9x0fnhTcKB3QiZrW-24" value="&lt;span style=&quot;font-weight: normal; font-size: 12px;&quot;&gt;&lt;font color=&quot;#000000&quot; style=&quot;font-size: 12px;&quot;&gt;Azure&lt;br style=&quot;font-size: 12px;&quot;&gt;Text-to-Speech&lt;/font&gt;&lt;/span&gt;" style="html=1;fillColor=#5184F3;strokeColor=none;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;spacingTop=-6;fontSize=12;fontStyle=1;fontColor=#999999;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_text_to_speech" parent="GOqR9x0fnhTcKB3QiZrW-1" vertex="1">
           <mxGeometry x="474" y="490" width="80" height="70.5" as="geometry" />
         </mxCell>
-        <mxCell id="GOqR9x0fnhTcKB3QiZrW-26" value="Azure &lt;br&gt;Virtual Agent" style="points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#F34482;gradientDirection=north;fillColor=#BC1356;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.chatbot;" parent="GOqR9x0fnhTcKB3QiZrW-1" vertex="1">
+        <mxCell id="29txLPimRGxZ8eqfhpjl-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.003;entryY=0.46;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" edge="1" parent="GOqR9x0fnhTcKB3QiZrW-1" source="GOqR9x0fnhTcKB3QiZrW-26" target="GOqR9x0fnhTcKB3QiZrW-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="970" y="398" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="963" y="521" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GOqR9x0fnhTcKB3QiZrW-26" value="Azure &lt;br&gt;Virtual Agent" style="points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#F34482;gradientDirection=north;fillColor=#BC1356;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.chatbot;labelBackgroundColor=#ffffff;" parent="GOqR9x0fnhTcKB3QiZrW-1" vertex="1">
           <mxGeometry x="935" y="334" width="59.75" height="59.75" as="geometry" />
         </mxCell>
         <mxCell id="29txLPimRGxZ8eqfhpjl-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="GOqR9x0fnhTcKB3QiZrW-1" source="GOqR9x0fnhTcKB3QiZrW-28">
